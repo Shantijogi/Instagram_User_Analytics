@@ -1,4 +1,4 @@
-# Instagram USer Analytics:
+# Instagram User Analytics:
 This project involves creating a database, inserting user and photo data, and performing complex SQL queries to analyze the platform’s user engagement, identify the contest winner, research hashtags, detect bots or fake accounts, and optimize ad campaign launches.
 
 ## Tech stack :

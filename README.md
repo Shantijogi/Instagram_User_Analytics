@@ -5,7 +5,10 @@ This project involves creating a database, inserting user and photo data, and pe
 - Database Management System: MySQL
 - Programming Language: SQL (Structured Query Language)
 
-## Query SS
+## Project PDF
+[View PDF](Instagram_User_Analytics_Report.pdf)
+
+## Queries SS
 ![test](IG_User_Queries_SS.png)
 
 # Features:

@@ -6,7 +6,7 @@ This project involves creating a database, inserting user and photo data, and pe
 - Programming Language: SQL (Structured Query Language)
 
 ## Project PDF
-[View PDF](file:///D:/Github/Trainity/Instagram_User_Analytics/Instagram_User_Analytics_Report.pdf)
+[View PDF](https://1drv.ms/b/c/8673476679b39335/ETHxaVn2-0FBpxumAjxLoLwBDJGOkm08DvsmeLbx1F0wOQ?e=cH62xL)
 
 ## Queries SS
 ![test](IG_User_Queries_SS.png)
